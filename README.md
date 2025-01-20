@@ -1,2 +1,2 @@
 # chrome-ui
-Chrome extension to modernize the Chrome UI
+A Chrome browser extension for a sleek and modern browser interface.
